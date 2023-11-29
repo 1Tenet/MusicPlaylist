@@ -9,7 +9,7 @@ Submitted by:
 
 ## Summary
 
-This document provides an overview, project spec, and wireframes for our team's capstone project: An app that **uses an anime api to show you characters from various animes.**
+This document provides an overview, project spec, and wireframes for our team's capstone project: An app that **uses **
 
 
 The following REQUIRED files are included:
